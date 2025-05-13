@@ -1,5 +1,3 @@
-You're absolutely right to ask about Kubernetes! While I aimed for the absolute minimum viable toolchain, Kubernetes has indeed become an essential part of many industrial DevOps setups. Let me update the framework to include it:
-
 # Updated DevOps Framework: Industrial Minimum Viable Toolchain
 
 ## Core Philosophy
